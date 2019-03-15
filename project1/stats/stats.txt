@@ -1,0 +1,36 @@
+File Name:two
+Redaction Flags used are ['names', 'dates', 'addresses', 'phones', 'genders']
+Concept used is kids
+Number of names redacted are 5
+Number of words/phrases redacted for Address are 2
+Number of phone numbers  redacted are 2
+Number of Dates redacted are 1
+Number of words redacted for Gender are 1
+Number of sentences redacted due to concept are 1
+File Name:one
+Redaction Flags used are ['names', 'dates', 'addresses', 'phones', 'genders']
+Concept used is kids
+Number of names redacted are 5
+Number of words/phrases redacted for Address are 2
+Number of phone numbers  redacted are 2
+Number of Dates redacted are 1
+Number of words redacted for Gender are 1
+Number of sentences redacted due to concept are 1
+File Name:three
+Redaction Flags used are ['names', 'dates', 'addresses', 'phones', 'genders']
+Concept used is kids
+Number of names redacted are 5
+Number of words/phrases redacted for Address are 2
+Number of phone numbers  redacted are 2
+Number of Dates redacted are 1
+Number of words redacted for Gender are 1
+Number of sentences redacted due to concept are 1
+File Name:four
+Redaction Flags used are ['names', 'dates', 'addresses', 'phones', 'genders']
+Concept used is kids
+Number of names redacted are 5
+Number of words/phrases redacted for Address are 2
+Number of phone numbers  redacted are 2
+Number of Dates redacted are 1
+Number of words redacted for Gender are 1
+Number of sentences redacted due to concept are 1
